@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:tamuraryoya/dockify-playground.git",
   "author": "tamuraryoya",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "serve": "docsify serve docs"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.3.0"
+  }
 }
