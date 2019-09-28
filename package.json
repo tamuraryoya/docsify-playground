@@ -1,0 +1,8 @@
+{
+  "name": "dockify-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamuraryoya/dockify-playground.git",
+  "author": "tamuraryoya",
+  "license": "MIT"
+}
